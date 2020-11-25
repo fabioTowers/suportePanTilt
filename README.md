@@ -17,6 +17,8 @@ Utilizei também um suporte de plástico pronto, mas esclaresso que a qualidade 
 
 É muito importante também que os servo motores sejam alimentados por outra fonte para que o circuito funcione adequadamente, a fonte precisa ser de 5V, ou de acordo com a tensão do motor utilizado.
 
+Para usar o receptor infravermelho utilizei a biblioteca [IRLibAll.h](https://github.com/cyborg5/IRLib2)
+
 Verifique a pinagem do receptor de infravermelho utilizado se for reproduzir esse projeto.
 
 Se gostou desse projeto não deixe de conhecer outros projetos me seguindo nas redes sociais:
