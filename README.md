@@ -13,7 +13,7 @@ Utilizei um controle de projetor para controlar os servo motores, então se quis
 
 Os servo motores utilizados utilizados para testes são da marca TowerPro modelo SG90, mas eles são bem frágeis, para o projeto final é provável que utilize outro motor.
 
-Utilizei também um suporte de plástico pronto, mas esclaresso que a qualidade do tipo de suporte que utilizei no teste é muito baixa, e ao contrário do que se imagina ao comprar um suporte pronto, nesse caso é necessário fazer diversos ajustes para as peças se encaixarem, retirar rebarbas de plástico e etc. Pra mim foi útil apenas para testes.
+Utilizei também um suporte de plástico pronto, mas esclareço que a qualidade do tipo de suporte que utilizei no teste é muito baixa, e ao contrário do que se imagina ao comprar um suporte pronto, nesse caso é necessário fazer diversos ajustes para as peças se encaixarem, retirar rebarbas de plástico e etc. Pra mim foi útil apenas para testes.
 
 É muito importante também que os servo motores sejam alimentados por outra fonte para que o circuito funcione adequadamente, a fonte precisa ser de 5V, ou de acordo com a tensão do motor utilizado.
 
